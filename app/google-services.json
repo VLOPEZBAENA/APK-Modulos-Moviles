@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628108439812",
+    "project_id": "keilotechnology-store",
+    "storage_bucket": "keilotechnology-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628108439812:android:ac6ae6f1630304f7ec2051",
+        "android_client_info": {
+          "package_name": "com.example.keilotechnologystore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQNw0--UQFROkZIOIxG7eMCNzMT7xy-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
